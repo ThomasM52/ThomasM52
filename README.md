@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, my name is Thomas 👋
 
-<!--
-**ThomasM52/ThomasM52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science (4th semester) at Erhvervsakademi Dania in Skive, Denmark — graduating January 2027. 
 
-Here are some ideas to get you started:
+I'm interested in backend development and building applications using C# and .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for an internship where I can improve my programming skills and gain real-world experience.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Datamatiker student
+- 💻 Learning C# and .NET
+- 📚 Interested in backend development
+- 📍 Based in Nykøbing Mors, Denmark.
+
+---
+
+## 🛠 Technologies
+
+- C#
+- .NET
+- SQL
+- Git
+- HTML / CSS
+
+---
+
+## 🚀 Projects
+
+### Stock Portfolio Tracker
+WPF desktop application that tracks stock positions using real-time data from the Finnhub API.
+
+### Offline Object Detection
+ML.NET model trained with Roboflow and integrated into a WPF application for offline predictions.
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/thomas-madsen40/
