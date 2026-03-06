@@ -4,7 +4,7 @@ I'm currently studying Computer Science (4th semester) at Erhvervsakademi Dania 
 
 I'm interested in backend development and building applications using C# and .NET.
 
-I'm currently looking for an internship where I can improve my programming skills and gain real-world experience.
+I'm currently looking for an internship where I can apply my skills and gain real-world development experience.
 
 ---
 
