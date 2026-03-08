@@ -1,6 +1,7 @@
 # Hi, my name is Thomas 👋
 
-I'm currently studying Computer Science (4th semester) at Erhvervsakademi Dania in Skive, Denmark — graduating January 2027. 
+I'm currently studying an AP Degree in Computer Science (Datamatiker) 
+at Erhvervsakademi Dania in Skive, Denmark. Expected graduation: January 2027. 
 
 I'm interested in backend development and building applications using C# and .NET.
 
